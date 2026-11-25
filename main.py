@@ -8,10 +8,10 @@ Deterministic: no randomness, no time, no network, no input.
 import os
 
 ENTRY = (
-    "Every summer evening, my grandmother called me in from the yard as the "
-    "rice steamed on the stove, and I sat barefoot at her wooden table, "
-    "swinging my legs, certain that supper \u2014 and that whole small world "
-    "\u2014 would last forever."
+    "On rainy afternoons, my grandmother pulled me inside, wrapped my cold "
+    "hands around a chipped mug of sweet tea, and told stories by the kitchen "
+    "window while rain drummed on the tin roof, and I believed that warm "
+    "little room would never change."
 )
 
 
