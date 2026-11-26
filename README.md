@@ -8,9 +8,9 @@ Entry for the [make.fun bounty](https://make.fun/bounty/u-shino-make-the-ai-judg
 
 ## The entry
 
-> On rainy afternoons, my grandmother pulled me inside, wrapped my cold hands around a chipped mug of sweet tea, and told stories by the kitchen window while rain drummed on the tin roof, and I believed that warm little room would never change.
+> Every summer dusk, I sat on the front steps listening for the ice-cream cart bell, bare feet on warm concrete, and when it finally turned our corner I felt rich for exactly as long as it took to finish a cone.
 
-(242 characters — one sentence, within the 280-character limit.)
+(209 characters — one sentence, within the 280-character limit.)
 
 ## How it works
 
